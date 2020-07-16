@@ -8,7 +8,8 @@ func Together() string {
 	return Crispy() + "\n" + Giggle()
 }
 
-// Main calls the crispy giggles all the way together.
-func Main() {
-	fmt.Println(Together())
+// Main now, calls the crispy giggles all the way together with a new level of attendency.
+func Main(opt ...interface{}) {
+	opt = append(opt, Together())
+	fmt.Println(opt...)
 }
