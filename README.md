@@ -8,6 +8,8 @@ Crispy is for those who Giggles.
 Giggle is the property of having some crisps.
 ---
 Main calls the crispy giggles all the way together.
+---
+Together is our new main.
 ```
 
 Follow at
