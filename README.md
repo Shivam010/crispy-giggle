@@ -10,9 +10,13 @@ Giggle is the property of having some crisps.
 Main calls the crispy giggles all the way together.
 ---
 Together is our new main.
+---
+Main now, calls the crispy giggles all the way together with a new level of attendency.
 ```
 
-Well, v2.0.0 leads mess in `go.mod` v1.0.1 saves the mess, but v2.0.0 is missed, as it really feels good.
+All because of the real break through in v2.0.0, using the concept: https://blog.golang.org/v2-go-modules
+
+Now, module path is `github.com/Shivam010/crispy-giggle/v2`
 
 Follow at
 [![@010Shivam](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/010Shivam)
